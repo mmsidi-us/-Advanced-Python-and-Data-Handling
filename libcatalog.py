@@ -1,3 +1,6 @@
+# Build a Library Catalog
+
+# Objective: Design and implement a class hierarchy for managing a collection of books.
 # 1. Book class
 
 # Attributes: title, author, year, checked_out (boolean, starts False)
